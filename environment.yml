@@ -1,0 +1,10 @@
+name: astroparticle2020
+
+channels:
+  - astropy
+
+dependencies:
+  - python=3.7
+  - pip
+  - pip:
+    - -r pip-requirements.txt
